@@ -202,12 +202,12 @@ export const EXPERIENCE = [
 
 export const CERTS = ['Azure Fundamentals (AZ-900)', 'Japanese N5 (NAT certified)', 'Agentic AI Development (GH-600)'];
 
-// Mock "photo of me" gallery — swap the pravatar URLs for real photos of you.
+// Placeholder gallery imagery until real photos are added.
 export const GALLERY = [
-  { url: 'https://i.pravatar.cc/600?img=13', depth: 1.2, caption: 'at the desk' },
-  { url: 'https://i.pravatar.cc/600?img=59', depth: 0.7, caption: 'shipping season' },
-  { url: 'https://i.pravatar.cc/600?img=32', depth: 1.5, caption: 'campus → office' },
-  { url: 'https://i.pravatar.cc/600?img=45', depth: 0.9, caption: 'debugging face' },
-  { url: 'https://i.pravatar.cc/600?img=8',  depth: 1.3, caption: 'open source days' },
-  { url: 'https://i.pravatar.cc/600?img=26', depth: 0.6, caption: 'bhopal, home base' },
+  { url: 'assets/images/gallery-coming-soon.svg', depth: 1.2, caption: 'Gallery update coming soon — frame 1' },
+  { url: 'assets/images/gallery-coming-soon.svg', depth: 0.7, caption: 'Gallery update coming soon — frame 2' },
+  { url: 'assets/images/gallery-coming-soon.svg', depth: 1.5, caption: 'Gallery update coming soon — frame 3' },
+  { url: 'assets/images/gallery-coming-soon.svg', depth: 0.9, caption: 'Gallery update coming soon — frame 4' },
+  { url: 'assets/images/gallery-coming-soon.svg', depth: 1.3, caption: 'Gallery update coming soon — frame 5' },
+  { url: 'assets/images/gallery-coming-soon.svg', depth: 0.6, caption: 'Gallery update coming soon — frame 6' },
 ];
